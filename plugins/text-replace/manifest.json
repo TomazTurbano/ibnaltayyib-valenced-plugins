@@ -1,6 +1,6 @@
 {
 	"format": 1,
-	"id": "fiery.text-replace",
+	"id": "thororen.text-replace",
 	"name": "Text Replace",
 	"description": "Replaces text in messages you send using your own rules.",
 	"author": "thororen <848339671629299742> (https://www.thororen.com \"Website\") (https://github.com/thororen1234 \"GitHub\")",
