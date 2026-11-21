@@ -246,13 +246,26 @@
       ],
       "icon": "ChatCheckIcon",
       "channels": {
-        "latest": "1.0.0"
+        "latest": "1.0.1"
       },
       "versions": {
         "1.0.0": {
           "url": "https://community.valenced.app/pool/dev.nexza.read-all-notifications@1.0.0.zip",
           "sha256": "4b2361a9d46ffe354a6eab8a25e1e7e6854712076064bd09c66611ce3fda17f7",
           "size": 1834,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.0.1": {
+          "url": "https://community.valenced.app/pool/dev.nexza.read-all-notifications@1.0.1.zip",
+          "sha256": "3744388a0e7d43ca5dccd2e3271684daca0799003337202ca3376c354c5dfcea",
+          "size": 2622,
           "dependencies": {
             "valenced.api": {
               "version": ">=1 <2"
