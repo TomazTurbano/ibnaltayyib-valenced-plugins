@@ -6,7 +6,7 @@
 	"author": "NexzaDev (https://github.com/NexzaDev \"GitHub\")",
 	"contributors": ["kemo (https://github.com/kem0x \"GitHub\")"],
 	"icon": "ChatCheckIcon",
-	"version": "1.1.0",
+	"version": "1.0.1",
 	"dependencies": {
 		"valenced.api": {
 			"version": ">=1 <2"
