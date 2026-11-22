@@ -1,6 +1,0 @@
-{
-	"name": "@valenced/legacy-themes",
-	"devDependencies": {
-		"@valenced/themes-api": "workspace:*"
-	}
-}
