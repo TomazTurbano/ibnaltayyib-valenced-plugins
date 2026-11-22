@@ -35,8 +35,6 @@ This repository comes **pre-installed with Valenced**. If you want to use these 
 
 | Name | Description | Authors | Version |
 | --- | --- | --- | --- |
-| [Add Attachments](plugins/add-attachments) | Add new attachments when editing messages. | Wolfie <347096063569559553> (https://wolfies.org/ "Website") (https://github.com/Wolfkid200444 "GitHub") | 1.0.0 |
-| [Anonymous File Names](plugins/anonymous-file-names) | Randomizes file names before you upload them. | k1ng_op <641266820187160576>, siguma, Palm <629368283354628116> (https://github.com/sponsors/PalmDevs "Donations") (https://palmdevs.me "Website") (https://github.com/PalmDevs "GitHub") | 1.0.0 |
 | [Better Chat Buttons](plugins/better-chat-buttons) | Hiding all annoying chat buttons, or making them never collapse, all configurable. | Palm <629368283354628116> (https://github.com/sponsors/PalmDevs "Donations") (https://palmdevs.me "Website") (https://github.com/PalmDevs "GitHub") | 1.0.0 |
 | [Better Typing Indicators](plugins/better-typing-indicators) | Typing indicator in channels, with user avatars, tap to open profile, and more. | Palm <629368283354628116> (https://github.com/sponsors/PalmDevs "Donations") (https://palmdevs.me "Website") (https://github.com/PalmDevs "GitHub") | 1.0.0 |
 | [Block YouTube Ads](plugins/block-youtube-ads) | Blocks ads in YouTube videos played inside the app, using AdGuard's script. | Palm <629368283354628116> (https://palmdevs.me "Website") (https://github.com/PalmDevs "GitHub") | 1.0.0 |
